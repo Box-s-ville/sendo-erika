@@ -1,5 +1,5 @@
 ## sendo erika on [NoneBot](https://github.com/richardchien/nonebot)
-[![License](https://img.shields.io/github/license/richardchien/nonebot.svg)](LICENSE) ![Python](https://img.shields.io/badge/python-3.6%2B-blue.svg)
+[![License](https://img.shields.io/github/license/richardchien/nonebot.svg)](LICENSE) ![Python](https://img.shields.io/badge/python-3.6%2B-blue.svg) [![Build Status](https://api.cirrus-ci.com/github/cleoold/sendo-erika.svg)](https://cirrus-ci.com/github/cleoold/sendo-erika)
 
 ### Description
 I am a QQ group chatting bot based on Coolq, Coolq http api and Nonebot which takes advantages on Python's [asyncio](https://docs.python.org/3/library/asyncio.html) mechanisms thus supporting a high volume of message i/o. I do provide useful plugins extended from Nonebot framework to ensure the bot operates at an acceptable and useable level.
